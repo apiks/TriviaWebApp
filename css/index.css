@@ -72,7 +72,14 @@ body {
 	padding: 1em;
 	width: 20%;
 	border-radius: 6px;
-	margin: 0 auto;
+	text-align: center;
+	color: black;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	top: 6em;
 }
 
 #stats {
