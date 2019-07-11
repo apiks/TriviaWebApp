@@ -136,7 +136,7 @@ function resetGame() {
 		document.getElementById("question").textContent = "Loading...";
 		Array.from(document.getElementsByClassName("help-item")).forEach(
 		    function(element) {
-		    	element.style.background = "cyan";
+		    	element.style.background = "#ffd6a1";
 		    }
 		);
 		// Reset audience and friend help text 
